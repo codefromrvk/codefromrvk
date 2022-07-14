@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codefromrvk
-- 👀 I’m interested in Webdev,Finance,Crypto
+- 👀 I'd love to hear anything about JS
 - 🌱 I’m currently learning Typescript
-- 💞️ I’m looking for people interested to collaborate on Webdevelopment projects.
+- 💞️ I’m looking for people interested to collaborate on Web development projects.
 - 📫 How to reach me varshithkumar553@gmail.com
 
 <!---
